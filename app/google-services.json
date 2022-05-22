@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "434005853983",
+    "project_id": "idyllic-adviser-350205",
+    "storage_bucket": "idyllic-adviser-350205.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434005853983:android:cfbbbb1e4059b2cbd2922a",
+        "android_client_info": {
+          "package_name": "com.example.logingoogle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434005853983-b2sbi37gsv1ifkejrpff4rutt1bvs8er.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8tt2PfWa6XyK9hci575BXSJhYyf_YL_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "434005853983-b2sbi37gsv1ifkejrpff4rutt1bvs8er.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

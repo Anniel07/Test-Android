@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Leles pc/AndroidStudioProjects/LoginGoogle/app/src/main/res/drawable/facebook_button.xml" value="0.132" />
+        <entry key="..\:/Users/Leles pc/AndroidStudioProjects/LoginGoogle/app/src/main/res/drawable/google_button.xml" value="0.1" />
+        <entry key="..\:/Users/Leles pc/AndroidStudioProjects/LoginGoogle/app/src/main/res/drawable/ic_baseline_person_pin_24.xml" value="0.128" />
+        <entry key="..\:/Users/Leles pc/AndroidStudioProjects/LoginGoogle/app/src/main/res/drawable/ic_icons8_facebook.xml" value="0.132" />
+        <entry key="..\:/Users/Leles pc/AndroidStudioProjects/LoginGoogle/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/Leles pc/AndroidStudioProjects/LoginGoogle/app/src/main/res/drawable/ic_menu_camera.xml" value="0.1" />
+        <entry key="..\:/Users/Leles pc/AndroidStudioProjects/LoginGoogle/app/src/main/res/drawable/side_nav_bar.xml" value="0.128" />
+        <entry key="..\:/Users/Leles pc/AndroidStudioProjects/LoginGoogle/app/src/main/res/layout/activity_compra.xml" value="0.1743659420289855" />
+        <entry key="..\:/Users/Leles pc/AndroidStudioProjects/LoginGoogle/app/src/main/res/layout/activity_login_screen.xml" value="0.16485507246376813" />
+        <entry key="..\:/Users/Leles pc/AndroidStudioProjects/LoginGoogle/app/src/main/res/layout/activity_main.xml" value="0.15260416666666668" />
+        <entry key="..\:/Users/Leles pc/AndroidStudioProjects/LoginGoogle/app/src/main/res/layout/activity_product.xml" value="0.13333333333333333" />
+        <entry key="..\:/Users/Leles pc/AndroidStudioProjects/LoginGoogle/app/src/main/res/layout/app_bar_main.xml" value="0.1" />
+        <entry key="..\:/Users/Leles pc/AndroidStudioProjects/LoginGoogle/app/src/main/res/layout/app_bar_main2.xml" value="0.13333333333333333" />
+        <entry key="..\:/Users/Leles pc/AndroidStudioProjects/LoginGoogle/app/src/main/res/layout/content_main.xml" value="0.1" />
+        <entry key="..\:/Users/Leles pc/AndroidStudioProjects/LoginGoogle/app/src/main/res/layout/content_main2.xml" value="0.10572916666666667" />
+        <entry key="..\:/Users/Leles pc/AndroidStudioProjects/LoginGoogle/app/src/main/res/layout/custom_list.xml" value="0.12916666666666668" />
+        <entry key="..\:/Users/Leles pc/AndroidStudioProjects/LoginGoogle/app/src/main/res/layout/fragment_configuracion.xml" value="0.16485507246376813" />
+        <entry key="..\:/Users/Leles pc/AndroidStudioProjects/LoginGoogle/app/src/main/res/layout/fragment_gallery.xml" value="0.1359375" />
+        <entry key="..\:/Users/Leles pc/AndroidStudioProjects/LoginGoogle/app/src/main/res/layout/fragment_home.xml" value="0.1359375" />
+        <entry key="..\:/Users/Leles pc/AndroidStudioProjects/LoginGoogle/app/src/main/res/layout/fragment_maps.xml" value="0.1743659420289855" />
+        <entry key="..\:/Users/Leles pc/AndroidStudioProjects/LoginGoogle/app/src/main/res/layout/fragment_maps2.xml" value="0.1743659420289855" />
+        <entry key="..\:/Users/Leles pc/AndroidStudioProjects/LoginGoogle/app/src/main/res/layout/fragment_slideshow.xml" value="0.1" />
+        <entry key="..\:/Users/Leles pc/AndroidStudioProjects/LoginGoogle/app/src/main/res/layout/nav_header_main.xml" value="0.1359375" />
+        <entry key="..\:/Users/Leles pc/AndroidStudioProjects/LoginGoogle/app/src/main/res/layout/nav_header_main2.xml" value="0.1359375" />
+        <entry key="..\:/Users/Leles pc/AndroidStudioProjects/LoginGoogle/app/src/main/res/menu/activity_main_drawer.xml" value="0.1" />
+        <entry key="..\:/Users/Leles pc/AndroidStudioProjects/LoginGoogle/app/src/main/res/menu/activity_product_drawer.xml" value="0.25" />
+        <entry key="..\:/Users/Leles pc/AndroidStudioProjects/LoginGoogle/app/src/main/res/menu/product.xml" value="0.11979166666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

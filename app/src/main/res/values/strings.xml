@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Test Productos</string>
+    <string name="default_web_clientId" translatable="false">434005853983-b2sbi37gsv1ifkejrpff4rutt1bvs8er.apps.googleusercontent.com</string>
+
+    <string name="prompt_username">UserName</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="forgot_pass"><u>Olvidé mi contraseña</u></string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_product">Productos</string>
+    <string name="menu_perfil">Perfil</string>
+    <string name="menu_misproductos">Mis productos</string>
+    <string name="menu_configuracion">Configuraciones</string>
+    <string name="menu_exit">Cerrar sesión</string>
+    <string name="compra_success">la compra se realizó correctamente</string>
+    <string name="confirmar_compra">desea confirmar la compra</string>
+
+    <string name="login_error">No se pudo loguear correctamente</string>
+    <string name="face_login_error">Error al autenticar usuario con Facebook</string>
+    <string name="google_login_error">Google sign in failed</string>
+
+
+    <!-- for facebook login -->
+    <string name="facebook_app_id">1397930957312630</string>
+    <string name="fb_login_protocol_scheme">fb1397930957312630</string>
+    <string name="facebook_client_token">1927e546d66daeebadcf70903ba01a65</string>
+
+    <string name="title_activity_product">ProductActivity</string>
+    <string name="comprar_producto">Comprar producto</string>
+
+
+</resources>
